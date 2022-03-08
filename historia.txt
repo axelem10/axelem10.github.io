@@ -10,3 +10,6 @@ en administración y dirección de empresas y despues tomando el rumbo de la pro
 En camara parece alto pero la verdad no es tan alto.
 
 Hoy es el CEO de platzi
+
+para la mayoria de las cosas en codigo se necesita trabajar en equipo, por lo que es de suma importancia aprender git
+Es asi como sirve git.
