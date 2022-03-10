@@ -10,8 +10,15 @@ p {
     color: rebeccapurple;
 }
 div img {
+    padding: 10px;
+    border: 1px solid rgb(157, 235, 157);
     height: 300px;
     width: 300px;
     object-fit: cover;
     border-radius: 7px;
+}
+div img:hover { 
+    border: 3px solid rgb(169, 252, 45);
+    height: 305px;
+    width: 305px;
 }
