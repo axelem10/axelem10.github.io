@@ -53,6 +53,7 @@ p {
 .container {
     display: flex;
     flex-direction: row;
+    justify-content: space-around;
 }
 div img {
     padding: 5px;
