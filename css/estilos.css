@@ -83,6 +83,19 @@ div img:hover {
 .foto img {
     border-radius: 50%;
 }
+footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    height: 50px;
+    font-size: x-large;
+    background-color: teal;
+    border-top: solid 2px rgb(241, 73, 7);
+}
+::-webkit-scrollbar {
+    display: none;
+}
 @media (max-width: 740px) {
     nav img {
     position: absolute;
