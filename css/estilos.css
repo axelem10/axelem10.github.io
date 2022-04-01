@@ -93,6 +93,14 @@ footer {
     background-color: teal;
     border-top: solid 2px rgb(241, 73, 7);
 }
+footer img {
+    border: solid 1px teal;
+    display: flex;
+    margin-right: 8px;
+    width: 80px;
+    height: 35px;
+    object-fit: cover;
+}
 ::-webkit-scrollbar {
     display: none;
 }
