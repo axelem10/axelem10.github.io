@@ -1,4 +1,4 @@
-# Hyperblog :tw-1f31e:
+# Hyperblog :national_park:
 Estoy creando un blog en el que practico un poco para mi curso de Git y Github, en este proyecto podras encontrar un poco de lo que eh aprendido en HTML, CSS, y JS, si has llegado hasta aqui me gustaria que vieras mi trabajo, soy un desarrollador en formación.
 >Las necesidades satisfechas no motivan. Sólo motivan las necesidades insatisfechas. Inmediatamente después de la supervivencia física, viene, como mayor necesidad del ser humano, la supervivencia psicolócica; ser comprendido, afirmado, valorado, apreciado.
 
