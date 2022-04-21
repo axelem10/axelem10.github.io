@@ -15,3 +15,4 @@ para la mayoria de las cosas en codigo se necesita trabajar en equipo, por lo qu
 Es asi como sirve git.
 
 Master 1
+Master 2
