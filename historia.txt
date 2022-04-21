@@ -13,6 +13,5 @@ Hoy es el CEO de platzi
 
 para la mayoria de las cosas en codigo se necesita trabajar en equipo, por lo que es de suma importancia aprender git
 Es asi como sirve git.
-
 Master 1
 Master 2
