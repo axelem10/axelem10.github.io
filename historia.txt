@@ -20,5 +20,6 @@ Master 2
 
 Experimento 1
 
-Master 1
->>>>>>> ex1
+Experimento 2
+
+Master 1>>>>>>> ex1
