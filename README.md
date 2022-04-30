@@ -4,6 +4,7 @@ Estoy creando un blog en el que practico un poco para mi curso de Git y Github, 
 
 Creado por Axel Enriquez Mora
 Incluye ejemplos en Windows, Linux, y Mac
+Disponible para todas las edades
 
 ![Tranquilidad](https://images.pexels.com/photos/207385/pexels-photo-207385.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1 "Tranquilidad")
 
